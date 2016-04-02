@@ -1,0 +1,14 @@
+# Sublime stuff
+*.sublime-workspace
+
+# RenPy stuff
+.android.json
+errors.txt
+log.txt
+traceback.txt
+game/cache/
+game/saves/
+tmp/*
+*.rpyc
+*.back
+

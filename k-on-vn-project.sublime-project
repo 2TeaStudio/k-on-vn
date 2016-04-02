@@ -1,0 +1,11 @@
+{
+	"folders":
+	[
+		{
+            "path": ".",
+            "folder_exclude_patterns": ["tmp", "cache", "saves"],
+            "file_exclude_patterns": ["*.rpyc", "*.bak", "errors.txt", "log.txt", "traceback.txt"]
+        },
+
+	]
+}
